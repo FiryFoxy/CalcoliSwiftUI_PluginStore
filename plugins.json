@@ -1,0 +1,18 @@
+{
+  "plugins": [
+    {
+      "id": "example-plugin",
+      "name": "Example Plugin",
+      "description": "An example plugin to demonstrate the plugin structure",
+      "version": "1.0.0",
+      "author": "Example Author",
+      "category": "Mathematics",
+      "repository": "https://github.com/username/example-plugin",
+      "downloadUrl": "https://github.com/username/example-plugin/releases/download/v1.0.0/example-plugin.zip",
+      "requirements": {
+        "minAppVersion": "1.0.0"
+      }
+    }
+  ],
+  "schema_version": "1.0.0"
+}
