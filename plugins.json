@@ -1,17 +1,17 @@
 {
   "plugins": [
     {
-      "id": "example-plugin",
-      "name": "Example Plugin",
-      "description": "An example plugin to demonstrate the plugin structure",
-      "version": "1.0.0",
-      "author": "Example Author",
-      "category": "Mathematics",
-      "repository": "https://github.com/username/example-plugin",
-      "downloadUrl": "https://github.com/username/example-plugin/releases/download/v1.0.0/example-plugin.zip",
-      "requirements": {
+    "id": "color-converter",
+    "name": "Color Converter",
+    "description": "A powerful color conversion utility that supports RGB, HEX, and HSB color formats with live preview",
+    "version": "1.0.0",
+    "author": "Fulvio Pavan",
+    "category": "Utilities",
+    "repository": "https://github.com/fulviopavan/calcoli-plugins",
+    "downloadUrl": "https://github.com/fulviopavan/calcoli-plugins/releases/download/v1.0.0/color-converter.zip",
+    "requirements": {
         "minAppVersion": "1.0.0"
-      }
+    }
     }
   ],
   "schema_version": "1.0.0"
