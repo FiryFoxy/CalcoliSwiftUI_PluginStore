@@ -8,7 +8,7 @@
     "author": "Fulvio Pavan",
     "category": "Utilities",
     "repository": "https://github.com/fulviopavan/calcoli-plugins",
-    "downloadUrl": "https://github.com/fulviopavan/calcoli-plugins/releases/download/v1.0.0/color-converter.zip",
+    "downloadUrl": "https://github.com/fulviopavan/calcoli-plugins/src",
     "requirements": {
         "minAppVersion": "1.0.0"
     }
