@@ -8,7 +8,7 @@
     "author": "Fulvio Pavan",
     "category": "Utilities",
     "repository": "https://github.com/fulviopavan/calcoli-plugins",
-    "downloadUrl": "https://github.com/FiryFoxy/CalcoliSwiftUI_PluginStore/tree/main/plugins/color-converter/src",
+    "downloadUrl": "https://raw.githubusercontent.com/FiryFoxy/CalcoliSwiftUI_PluginStore/main/plugins/color-converter/src/ColorConverterPlugin.swift",
     "requirements": { 
         "minAppVersion": "1.0.0"
     }
